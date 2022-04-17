@@ -6,11 +6,13 @@ import Services from './components/Services/Services';
 import About from './components/About/About';
 import Login from './components/Login/Login';
 import Register from './components/Register/Register'
+import Section from './components/Section/Section';
 
 function App() {
   return (
     <div>
       <Header></Header>
+      <Section></Section>
       <Routes>
         <Route path='/Home' element={<Home></Home>}></Route>
         <Route path='/Services' element={<Services></Services>}></Route>
