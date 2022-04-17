@@ -1,0 +1,11 @@
+.footer-area{
+    height: 80px;
+    margin-top: 20px;
+    background-color: rgb(134, 92, 25);
+}
+.footer-area p{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+    
+}
