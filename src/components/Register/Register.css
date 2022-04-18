@@ -13,17 +13,17 @@
 }
 .input-group label{
     display: block;
-    margin-left: 20px;   
+    margin-left: 50px;   
 }
 .input-group input{
     height: 40px;
     width: 250px;
     display: block;
-    margin-left: 20px; 
+    margin-left: 50px; 
 }
 .login-btn{
     height: 40px;
     width: 200px;
     margin-top: 20px;
-    margin-left: 20px;  
+    margin-left: 50px;  
 }
