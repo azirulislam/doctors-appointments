@@ -5,9 +5,9 @@ import Home from './components/Home/Home';
 import Services from './components/Services/Services';
 import About from './components/About/About';
 import Login from './components/Login/Login';
-import Register from './components/Register/Register';
 import Blog from './components/Blog/Blog';
 import Contact from './components/Contact/Contact';
+import Register from './components/Register/Register';
 import Footer from './components/Footer/Footer';
 
 
