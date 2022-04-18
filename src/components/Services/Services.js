@@ -8,6 +8,7 @@ const Services = () => {
     return (
         <div>
         <h2 className='text-center mt-3 text-primary'>Think Healthy, Think Doctor</h2>
+        <p className='text-center'>Some of online services</p>
             <div className="card-container d-flex mt-4">
       <div className='card'>
          <img className='card-img' src={images} alt="" />

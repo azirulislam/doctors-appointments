@@ -5,7 +5,9 @@ import Home from './components/Home/Home';
 import Services from './components/Services/Services';
 import About from './components/About/About';
 import Login from './components/Login/Login';
-import Register from './components/Register/Register'
+import Register from './components/Register/Register';
+import Blog from './components/Blog/Blog';
+import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 
 
@@ -18,6 +20,8 @@ function App() {
         <Route path='/Home' element={<Home></Home>}></Route>
         <Route path='/Services' element={<Services></Services>}></Route>
         <Route path='/About' element={<About></About>}></Route>
+        <Route path='/Blog' element={<Blog></Blog>}></Route>
+        <Route path='/Contact' element={<Contact></Contact>}></Route>
         <Route path='/Login' element={<Login></Login>}></Route>
         <Route path='/Register' element={<Register></Register>}></Route>
       </Routes>
